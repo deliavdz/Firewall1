@@ -1,0 +1,8 @@
+{
+    "ListOfBannedIpAddr": ["54.237.226.164", "52.3.144.142", "3.230.129.93", "3.161.188.94","3.161.188.118","3.161.188.28", "3.161.188.93"],
+    "ListOfBannedPorts": [80, 81],
+    "ListOfBannedPrefixes": ["172."],
+    "TimeThreshold": 10,
+    "PacketThreshold": 100,
+    "BlockPingAttacks" : "True"
+  }
